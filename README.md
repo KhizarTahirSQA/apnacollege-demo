@@ -1,4 +1,4 @@
 # apnacollege-demo
 This is my first Git Repostiry.
 <br>
-Author - Khizar Tahir
+Author - Khizar Tahir (Apna College)
